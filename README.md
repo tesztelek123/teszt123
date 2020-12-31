@@ -3,7 +3,7 @@
 
   <h3>Search GitHub users and get the profile info and the latest repos</h3>
 
-  <img src="screenshot-1.png" width="500">
+  <img src="screenshot-1.png">
 </div>
 
 <br>
@@ -58,6 +58,6 @@ npm start
 
 <div>
   <h2>Screenshots</h2>
-  <img src="screenshot-2.png" width="500">
-  <img src="screenshot-3.png" width="160">
+  <img src="screenshot-2.png">
+  <img src="screenshot-3.png"
 </div>
