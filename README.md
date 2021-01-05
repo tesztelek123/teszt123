@@ -1,7 +1,7 @@
 <div align="center">
   <h1>GitHub Finder</h1>
 
-  <h3>Search GitHub users to get the profile info and the latest repos</h3>
+  <h4>Search GitHub users to get the profile info and the latest repos</h4>
 
   <img src="screenshot-1.png" width="600">
 </div>
