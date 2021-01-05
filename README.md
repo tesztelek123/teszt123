@@ -39,6 +39,8 @@ To start the project, run:
 npm start
 ```
 
+---
+
 <div>
   <h2>Screenshots</h2>
   <img src="screenshot-2.png" width="500">
