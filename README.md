@@ -6,8 +6,6 @@
   <img src="screenshot-1.png" width="600">
 </div>
 
----
-
 ## Project Setup
 
 ### Prerequisites
