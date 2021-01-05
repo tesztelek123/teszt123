@@ -12,7 +12,7 @@
 
 ### Prerequisites
 
-Install the _latest version_ of [Node.js](http://nodejs.org)
+Install the _latest version_ of <a href="https://nodejs.org" target="_blank"></NodeJS</a>
 
 ### Project Install
 
