@@ -39,10 +39,8 @@ To start the project, run:
 npm start
 ```
 
-<br>
-
 <div>
   <h2>Screenshots</h2>
   <img src="screenshot-2.png" width="500">
-  <img src="screenshot-mobile.png" width="160">
+  <img src="screenshot-3.png" width="160">
 </div>
